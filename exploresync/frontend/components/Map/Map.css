@@ -1,0 +1,28 @@
+@import url('leaflet/dist/leaflet.css');
+
+.own-marker {
+    background-color: rgb(0, 150, 100); 
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.user-marker {
+    background-color: rgb(50, 150, 230);
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.place-marker {
+    background-color: coral; 
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+}

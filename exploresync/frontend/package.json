@@ -1,0 +1,38 @@
+{
+  "name": "exploresync",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "env-cmd next dev",
+    "build": "env-cmd next build",
+    "start": "env-cmd next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fullcalendar/core": "^6.1.10",
+    "@fullcalendar/daygrid": "^6.1.10",
+    "@fullcalendar/react": "^6.1.10",
+    "env-cmd": "^10.1.0",
+    "framer-motion": "^10.16.4",
+    "geolib": "^3.3.4",
+    "js-cookie": "^3.0.5",
+    "leaflet": "^1.9.4",
+    "moment": "^2.29.4",
+    "next": "14.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18",
+    "react-icons": "^4.12.0",
+    "react-leaflet": "^4.2.1",
+    "react-router-dom": "^6.18.0",
+    "socket.io-client": "^4.7.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
